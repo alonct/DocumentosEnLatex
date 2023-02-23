@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Tema 1:}{2}{}%
+\contentsline {section}{\numberline {2}Tema 2: Movimiento}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Desplazamiento}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Velocidad promedio}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Velocidad instantánea}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Aceleración}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Ecuaciones del movimiento}{4}{}%
+\contentsline {subsection}{\numberline {2.6}Particularizaciones:}{4}{}%
+\contentsline {subsection}{\numberline {2.7}Tiro parabólico}{5}{}%

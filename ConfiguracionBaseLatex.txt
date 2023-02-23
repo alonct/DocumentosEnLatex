@@ -1,0 +1,74 @@
+\documentclass{article}
+\usepackage{amssymb}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[spanish]{babel}
+\usepackage{tikz}
+\usepackage{graphicx}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}[1]{$\mathbb{R}^#1$}
+\newcommand{\Phisub}[1]{$\varphi_#1$}
+\newcommand{\matriz}[4]{\begin{pmatrix}
+#1 & #2\\
+#3 & #4
+\end{pmatrix}}
+
+
+\providecommand{\norm}[1]{\lVert#1\rVert}
+\usepackage{amsthm}
+\usepackage{graphicx}
+
+\newtheorem{definition}{Definición}[section]
+\newtheorem{observation}{Observación}[section]
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{proposition}{Proposición}[section]
+\newtheorem{lemma}{Lema}[section]
+\newtheorem{corollary}{Corolario}[section]
+\newtheorem{example}{Ejemplo}[section]
+\newtheorem{exercise}{Ejercicio}[section]
+
+
+
+\title{	
+
+	\normalfont\normalsize
+	\textsc{Universidad de Murcia}\\ 
+	\vspace{25pt} % Whitespace
+	\rule{\linewidth}{0.5pt} % Thin top horizontal rule
+	\vspace{20pt}\\ % Dará error hasta que escribas algo en el título
+	{\huge 
+}\\ % The assignment title
+	\vspace{12pt} % Whitespace
+	\rule{\linewidth}{2pt}\\ % Thick bottom horizontal rule
+	\vspace{12pt} % Whitespace
+	% \includegraphics[scale=0.25]{floresportada.png}
+}
+
+
+\author{\LARGE Alonso Oma Alonso} % Your name
+
+  
+ 
+\date{\normalsize\today} % Today's date (\today) or a custom date
+
+
+
+\begin{document}
+
+\begin{titlepage}
+	\maketitle
+\end{titlepage}
+
+\newpage
+\tableofcontents
+\newpage
+
+\begin{section}{}
+
+	\begin{subsection}{}
+		
+	\end{subsection}
+
+\end{section}
+
+\end{document}
