@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1677178072 "c:/Users/alonso/Desktop/Alonso/Universidad/DocumentosEnLatex/EDO/main.tex" "main.pdf" "main" 1677178073 0
+["pdflatex"] 1677613085 "c:/Users/alonso/Desktop/Alonso/Universidad/DocumentosEnLatex/EDO/main.tex" "main.pdf" "main" 1677613088 0
   "C:/Users/alonso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1669894640 81107 70b8516c68c2e617189c5e44bfd16b96 ""
   "C:/Users/alonso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1677068440 11548 831d2a1c4067f102ec542207328c8b54 ""
   "C:/Users/alonso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1669894632 10805104 6aded981525c141143dc656ba84f3710 ""
@@ -147,11 +147,11 @@
   "C:/Users/alonso/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys.sty" 1621069645 274 5ae372b7df79135d240456a1c6f2cf9a ""
   "C:/Users/alonso/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1621069645 325 f9f16d12354225b7dd52a3321f085955 ""
   "C:/Users/alonso/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/alonso/Desktop/Alonso/Universidad/DocumentosEnLatex/EDO/main.tex" 1677178071 16376 48c58751ad66483eebce6dfb6c79ae40 ""
+  "c:/Users/alonso/Desktop/Alonso/Universidad/DocumentosEnLatex/EDO/main.tex" 1677613084 17892 7719bf43a2f7a702d92137c7457eba48 ""
   "floresportada.png" 1651162586 234824 4d323629b121304105c952b5692a0c97 ""
-  "main.aux" 1677178073 1076 ecbb46a5297bb8c5e7db195ff2794860 "pdflatex"
-  "main.tex" 1677178071 16376 48c58751ad66483eebce6dfb6c79ae40 ""
-  "main.toc" 1677178073 663 6ed91b1cdabc68000317db17e5c14968 "pdflatex"
+  "main.aux" 1677613087 1233 41dfd0af7f8cbbf809974557e8460f52 "pdflatex"
+  "main.tex" 1677613084 17892 7719bf43a2f7a702d92137c7457eba48 ""
+  "main.toc" 1677613087 779 8af236915e6c31393643c42f636c3fc3 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

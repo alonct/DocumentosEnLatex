@@ -22,6 +22,7 @@
 }
 \newcommand{\defcauchy}{f: D \subseteq \mathbb{R}\times \mathbb{R}^n \rightarrow\mathbb{R}^n, \ t_0\in \mathbb{R}, \ y_0\in \mathbb{R}}
 \newcommand{\phit}{\phi(t) = y_0 + \int_{t_0}^{t}f(s, \phi(s))\cdot ds}
+\newcommand{\parcial}[2]{\frac{\partial  #1}{\partial #2}}
 
 
 \providecommand{\norm}[1]{\lVert#1\rVert}
@@ -311,7 +312,23 @@
             \[y' = f(t,y)\qquad con f:D\subseteq\mathbb{R}^2\rightarrow\mathbb{R}\]
             y que $\exists \ \phi$ solución en $I$, entonces $\phi'(t) = f(t, \phi(t)), \ \forall t\in I$.
 
-            Sea $(t_0, \phi(t_0))$ fijo $\longrightarrow \phi'(t_0) = (t_0, \phi(t_0)) = K_0$ un número real concreto. Entonces 
+            Sea $(t_0, \phi(t_0))$ fijo $\longrightarrow \phi'(t_0) = (t_0, \phi(t_0)) = K_0$ un número real concreto. Entonces si tomamos $K_0$ la pendiente de la recta que pasa por 
+            $(t_0, y_0)$ será la recta tangente a la gráfica de la función solución (si existe) $\phi$ en en $(t_0, \phi(t_0))$.
+
+            Se pueden dibujar todos los puntos que tienen la misma pendiente $K_0$ y dibujar en ellos un segmento pequeño de pendiente $K_0$. Análogamente se puede hacer con otras constantes $K_1, K_2, K_3, \dots$ Construyendo así el \textit{campo de pendientes de la EDO escalar de primer orden}.
+
+            A partir de un campo de pendientes uno se puede hacer una idea de la gráfica de las soluciones. Para dibujar más facilmente el campo de pendientes nos podemos ayudar de las isoclinas.
+
+            \begin{definition}
+                A las curvas que se corresponden con los puntos del plano tales que $f(t,y) = K$ se les llama \textbf{isoclinas}.
+                \[C_K = \{(t,y)\in \mathbb{R}^2 / f(t,y) = K\}\]
+            \end{definition}
+            
+        \end{subsection}
+
+        \begin{subsection}{Obtención de una EDO escalar a partir de una familia de curvas:}
+            Dada una familia de curvas que depender de una parámetro $y=h(t,\mathcal{C})$, $\mathcal{C}\in\mathbb{R}$. Si $h\in C(\Omega)$, $\Omega$ abierto de \R{2}, y $\exists \parcial{h}{t}\in C(\Omega)$, entonces
+            todas las curvas de la familia son solución de la EDO que se obtiene, si se puede eliminar el parámetro $\mathcal{C}$ del sistema.
             
         \end{subsection}
     \end{subsection}
