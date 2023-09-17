@@ -1,0 +1,3 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Tema 1:}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}El cuerpo $\mathbb {C}$ de los números complejos}{3}{subsection.1.1}%
